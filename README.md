@@ -167,7 +167,7 @@ Then set the runtime and compatible architecture as x86_64 and Node.js.
 
 Once done click on `Create`
 
-![Create Layer Page Filled](images/Layer-filled.png)
+![Create Layer Page Filled](images/Layer-Filled.png)
 
 Your new layer should be visible under `Lambda > Layers`.
 
